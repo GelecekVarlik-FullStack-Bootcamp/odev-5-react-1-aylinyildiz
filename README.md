@@ -1,15 +1,17 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
-
-# Homework 
-```Ödev```
+# Hafta 5 - ReactJs
 
 
-## Homework Description
+## Ödev Açıklaması
 
-```Ödev Açıklaması ```
+### Verilen dizide: 
+*  İsmin baş harfine göre gruplama, 
+*  Yaşadıkları şehre göre gruplama yapılmalı.
+
+## Ekran Görüntüsü
+
+![img](output.PNG)
 
 
-## Author
+## Hazırlayan
 
-```Ödevi yapan```
+```Aylin Yıldız```
